@@ -1,6 +1,6 @@
 # validate-creditcard
 
-To automatically validate the integrity of a ReactJS credit card form to support the team's CI/CD pipeline.
+To automatically validate the integrity of a ReactJS credit card form to support a team's CI/CD pipeline.
 
 ## Todo
 
