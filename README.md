@@ -2,6 +2,9 @@
 
 To automatically validate the integrity of a ReactJS credit card form to support a team's CI/CD pipeline.
 
+<img width="476" alt="Screen Shot 2021-07-31 at 11 24 23 PM" src="https://user-images.githubusercontent.com/35468510/127758116-9bed9f45-8062-4635-a9fa-5b6de958b305.png">
+
+
 ## Todo
 
 [X] Develop front facing veiw (html/css)
