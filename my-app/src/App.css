@@ -18,8 +18,21 @@
   height: 50%;
   border-radius: 8px;
   padding: 20px;
-  font-size: calc(4px + 2vmin);
+  /* font-size: calc(4px + 2vmin); */
   text-align: justify;
+}
+
+p {
+  font-size: 12px;
+}
+
+.warning {
+  color: red;
+  text-align: left;
+}
+
+.title {
+  font-size: 16px;
 }
 
 td {
